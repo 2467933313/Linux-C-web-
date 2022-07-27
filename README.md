@@ -135,5 +135,4 @@ Linux下C++轻量级Web服务器，助力初学者快速实践网络编程，搭
 	    26 #define ASYNLOG   /异步写日志
 	    ```
 * 选择I/O复用方式或日志写入方式后，按照前述生成server，启动server，即可进行测试.
-
-copy for qinguoyi
+copy for qinguoyi hello
