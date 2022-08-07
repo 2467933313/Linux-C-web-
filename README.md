@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 test1Raw_version文档123345pullsuccess123
 issue1
-=======
 add Log文档1
->>>>>>> webLog
 ===============
 Linux下C++轻量级Web服务器，助力初学者快速实践网络编程，搭建属于自己的服务器.
 
